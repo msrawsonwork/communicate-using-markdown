@@ -6,3 +6,9 @@
 ###### h6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Some code:
+```
+10 PRINT "HELLO"
+20 GOTO 10
+```
